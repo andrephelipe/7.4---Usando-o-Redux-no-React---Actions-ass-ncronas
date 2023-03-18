@@ -1,1 +1,1 @@
-# 7.4---Usando-o-Redux-no-React---Actions-ass-ncronas
+# 7.4---Usando-o-Redux-no-React---Actions-assincronas
